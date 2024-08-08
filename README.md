@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=5500&color=B3B3B3&lines=Hi+There!+👋;+I'm+Kayyis+Abdullah+AlHadi!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=5500&color=B3B3B3&lines=Hello+There!+👋;+I'm+Kayyis+Abdullah+AlHadi!;" />
 
 <h2>📖 | About me</h2> 
 🌐Have a high learning spirit and enthusiasm to develop a career in the field of Front-end Developer and UI/UX Designer. Mastering HTML and CSS, Skilled in using Microsoft Office such as Microsoft Word, and Excel, Having the ability to use design tools such as: figma, Adobe Illustrator, Canva, and Adobe Xd. 
