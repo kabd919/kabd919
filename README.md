@@ -1,11 +1,8 @@
 <div align="right">
-<a style="text-decoration: none" target="_blank"href="https://github.com/codediaz">
+<a style="text-decoration: none" target="_blank"href="https://github.com/kabd919">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=codediaz.codediaz&left_color=gray&right_color=blue&left_text=Coders%20visitors">
 </a>
-<a style="text-decoration: none" target="_blank" href="https://twitter.com/codediazsergio" >
-<img width="60"src="https://img.shields.io/twitter/follow/chipro?label=Follow&style=social">
-</a>
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/sergio-diaz-fernandez/" >
+<a style="text-decoration: none" target="_blank" href="www.linkedin.com/in/kayyis" >
 <img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
 </a>
 </div>
@@ -32,7 +29,8 @@ Looking for opportunities to apply the knowledge and skills they have in a dynam
     <tr>
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="https://thumbs4.imagebam.com/91/a0/5d/MEV5NG3_t.png" alt="Universitas Bhayangkara Jakarta Raya.png" width="90"/><br>
+        <img src="https://thumbs4.imagebam.com/91/a0/5d/MEV5NG3_t.png" alt="Universitas Bhayangkara Jakarta Raya.png" width="100"/><br>
+        <br>
         <img src="https://th.bing.com/th/id/R.c8b47df6b8d2588db544e8918cafc769?rik=O6R060Bvy%2f64AA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f9%2f9f%2fFlag_of_Indonesia.svg%2f240px-Flag_of_Indonesia.svg.png&ehk=Cp3h6CWPI7KMnRyN7VsRcpDeVrwiaDu%2fWgStQd0qKiM%3d&risl=&pid=ImgRaw&r=0" height="20" alt="Ec.png"/><br>
         <strong>bachelor</strong><br> Bhayangkara Jakarta Raya <br>
        <br>
@@ -42,5 +40,13 @@ Looking for opportunities to apply the knowledge and skills they have in a dynam
   </table>
 </div>
 
-<h2>🔥| My contribution streak</h2>
+<h2>🔥| Connect With Me🤝</h2>
 
+<br>
+
+
+
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
